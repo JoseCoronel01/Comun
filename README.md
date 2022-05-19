@@ -1,1 +1,2 @@
-# Comun
+# BIBLIOTECA DE CLASES 
+# Mi libreria .NET FRAMEWORK 4.8 C#
